@@ -21,7 +21,7 @@ spec:
     spec:
       containers:
        - name: app
-         image: lalit0211/myimage:CICD
+         image: lalit0211/myimage:docker
 ---
 kind: Service
 apiVersion: v1
